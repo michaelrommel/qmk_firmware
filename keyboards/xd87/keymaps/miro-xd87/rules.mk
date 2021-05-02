@@ -1,7 +1,3 @@
-# Build Options
-#   change to "no" to disable the options, or define them in the Makefile in 
-#   the appropriate keymap folder that will get included automatically
-#
 BOOTMAGIC_ENABLE = no       # Virtual DIP switch configuration
 MOUSEKEY_ENABLE = no        # Mouse keys
 EXTRAKEY_ENABLE = yes       # Audio control and System control
@@ -18,4 +14,5 @@ AUDIO_ENABLE = no           # Audio output on port C6
 UNICODE_ENABLE = no         # Unicode
 BLUETOOTH_ENABLE = no       # Enable Bluetooth with the Adafruit EZ-Key HID
 SLEEP_LED_ENABLE = no       # Breathing sleep LED during USB suspend
+
 

@@ -38,8 +38,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // selecting animations
 #undef RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
-#define RGBLIGHT_EFFECT_TWINKLE
-#define RGBLIGHT_EFFECT_TWINKLE_LIFE 255
-#define RGBLIGHT_EFFECT_TWINKLE_PROBABILITY 10/127
+// #define RGBLIGHT_EFFECT_TWINKLE
+// #define RGBLIGHT_EFFECT_TWINKLE_LIFE 255
+// #define RGBLIGHT_EFFECT_TWINKLE_PROBABILITY 10/127
+
+#define LEADER_TIMEOUT 750
 
 #endif
